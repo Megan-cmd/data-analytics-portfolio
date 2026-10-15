@@ -22,6 +22,7 @@ I'm building practical projects in data analytics, business intelligence, report
 - **Data Analysis:** Data cleaning, exploratory data analysis, KPI analysis
 - **Business Intelligence:** Dashboard development, data visualisation, performance reporting
 - **Tools:** SQL, Excel, Power BI, Python *(include tools you can confidently use)*
+- **Strategic Planning**
 
 ##  Featured Projects
 

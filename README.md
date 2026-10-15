@@ -64,7 +64,7 @@ Each completed project will include its business problem, methodology, key findi
 I'm open to opportunities to learn, collaborate, and contribute to data-driven projects.
 
 - **GitHub:** [https://github.com/Megan-cmd)]
-- **LinkedIn:** [[Add your LinkedIn profile URL](https://www.linkedin.com/in/megan-ngwenya-b65a52280/)]
+- **LinkedIn:** [https://www.linkedin.com/in/megan-ngwenya-b65a52280/]
 - **Email:** [meganngwenya04@gmail.com]
 
 ---
